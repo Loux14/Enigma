@@ -7,7 +7,7 @@ Decide the rotor order, the direction when rotating of each, and the position at
 
 # Terminal command :
 
-## java Enigma.java R1 D 0 R3 G 0 R2 D 7
+**java Enigma.java R1 D 0 R3 G 0 R2 D 7**
 
 In this case you put R1 as first rotor, then R3 and finally R2.
 
