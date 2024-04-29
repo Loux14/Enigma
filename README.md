@@ -18,4 +18,4 @@ R3 is already turned by 7 rotation at start.
 
 Will be shown the initial setting and asked the message to encrypt.
 
-Will be return the encrypted message and new position of rotor
+Will be return the encrypted message and new position of rotors
