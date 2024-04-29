@@ -5,7 +5,7 @@
 
 Decide the rotor order, the direction when rotating of each, and the position at start (number of pre-rotations)
 
-Terminal command :
+# Terminal command :
 
 ## java Enigma.java R1 D 0 R3 G 0 R2 D 7
 
