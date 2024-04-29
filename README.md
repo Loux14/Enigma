@@ -1,7 +1,7 @@
 # ***ENIGMA MACHINE***
 
 * 3 Rotors R1-R2-R3
-* 2 Direction D (fr - "droite") G (fr - "gauche")
+* 2 Directions D (fr - "droite") G (fr - "gauche")
 
 Decide the rotor order, the direction when rotating of each, and the position at start (number of pre-rotations)
 
