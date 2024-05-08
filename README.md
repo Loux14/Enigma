@@ -5,6 +5,8 @@
 
 Decide the rotor order, the direction when rotating of each, and the position at start (number of pre-rotations)
 
+<img width="468" alt="Picture1" src="https://github.com/Loux14/Enigma/assets/122696881/850e3ea7-6547-4f95-a9f9-8950249432a7">
+
 # Terminal command :
 
 **java Enigma.java R1 D 0 R3 G 0 R2 D 7**
